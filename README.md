@@ -56,7 +56,10 @@ Source: [tbank.ru](https://www.tbank.ru/finance/blog/legendary-game/?ysclid=mdst
    ```bash
    streamlit run app.py
    ```
+## Demo Video
 
+Watch the demo of the app in action:  
+[DEMO.mp4](./DEMO.mp4)
 ---
 
 # Помощник для игры "5 букв" (Wordle на русском)
@@ -117,5 +120,10 @@ Source: [tbank.ru](https://www.tbank.ru/finance/blog/legendary-game/?ysclid=mdst
    ```bash
    streamlit run app.py
    ```
+
+## Видео демонстрация
+
+Смотрите демонстрацию работы приложения:  
+[DEMO.mp4](./DEMO.mp4)
 
 ---
