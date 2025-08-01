@@ -60,6 +60,8 @@ Source: [tbank.ru](https://www.tbank.ru/finance/blog/legendary-game/?ysclid=mdst
 
 Watch the demo of the app in action:  
 [DEMO.mp4](./DEMO.mp4)
+
+
 ---
 
 # Помощник для игры "5 букв" (Wordle на русском)
